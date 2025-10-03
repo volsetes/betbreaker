@@ -1,0 +1,21 @@
+# Dependencias
+node_modules/
+__pycache__/
+*.pyc
+
+# Archivos de entorno
+.env
+.env.local
+.env.production
+
+# Logs
+*.log
+npm-debug.log*
+
+# Archivos temporales
+.tmp/
+.temp/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
